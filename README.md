@@ -3,8 +3,7 @@
 
 ---
 
-
-
+https://github.com/user-attachments/assets/198af9be-0993-4832-9437-184e85b505c0
 
 ## 📋 Tartalomjegyzék
 1. [Projektáttekintés](#projektáttekintés)
@@ -719,9 +718,6 @@ Ez a dokumentáció egy teljes körű útmutató az **AURO Film Közösségi Pla
 - **WebSocket** real-time kommunikációt
 - **Docker**-ből izolált microservices-eket
 - **Responsive UI**-t React és Tailwind CSS-sel
-
-
-https://github.com/user-attachments/assets/198af9be-0993-4832-9437-184e85b505c0
 
 
 **A projekt ideális referencia modern webalkalmazás-fejlesztéshez.**
